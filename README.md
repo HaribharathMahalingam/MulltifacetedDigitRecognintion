@@ -34,15 +34,15 @@ To run main file,
 
 To execute spoken digit recognition that uses LSTM,
 
-python sound1.py
+    python sound1.py
 
 To execute handwritten digit recogniton that uses CNN,
 
-python guifinal.py
+    python guifinal.py
 
 To execute webcam digit recognition that uses CNN
 
-python cam.py
+    python cam.py
 
 Following are the dependencies of the project
 
