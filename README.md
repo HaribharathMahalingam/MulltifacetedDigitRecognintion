@@ -22,8 +22,14 @@ The primary objective of this project is to develop an multifaceted digit recogn
 The main file is samplefinal.py It executes tkinter window holding all three options of spoken, handwritten and webcam digit recognition.
 
 To run main file,
+
+
 1)clone the repository and download it
+
+
 2)from the downloaded folder open cmd window
+
+
 3)execute python samplefinal.py
 
 To execute spoken digit recognition that uses LSTM,
